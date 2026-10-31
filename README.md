@@ -1,11 +1,16 @@
-# Tanish Charthankar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img src="header.svg" alt="Tanish Charthankar — Engineer at Atlan. I want to get faster without getting shallow." width="100%">
+</picture>
 
-I enjoy understanding systems and the decisions that shaped them.
+Working at Atlan has raised my expectations of what I can build. I’m learning to raise my standards along with them.
 
-The constraints, the compromises, the clever idea that worked beautifully until something changed.
+With AI, I can try an approach I would previously have spent days debating. That makes me more willing to attempt things, and less attached to my first answer.
 
-That’s what draws me to engineering: there’s rarely a perfect answer, but there’s usually a way to understand the problem better and make a more deliberate choice.
+I still want to understand why the system is shaped the way it is. Where the complexity belongs. Whether an abstraction earns its place. What happens when something fails. Getting the code written sooner gives me more room for those questions.
 
-I’m drawn to people who can explain their reasoning, question their own assumptions, and change their minds without losing conviction.
+I want to build things people feel comfortable depending on—and enjoy using. The kind where someone has clearly thought through the annoying little details.
+
+There’s a lot I haven’t learned yet. I’m excited that I can attempt more while learning it.
 
 *Sleep Deprived Dreamer.*
