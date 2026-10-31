@@ -1,6 +1,6 @@
 # Tanish Charthankar
 
-I enjoy understanding systems—and the decisions that shaped them.
+I enjoy understanding systems and the decisions that shaped them.
 
 The constraints, the compromises, the clever idea that worked beautifully until something changed.
 
