@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img src="header.svg" alt="Tanish Charthankar — Engineer at Atlan. I want to get faster without getting shallow." width="100%">
-</picture>
+
 
 Working at Atlan has raised my expectations of what I can build. I’m learning to raise my standards along with them.
 
