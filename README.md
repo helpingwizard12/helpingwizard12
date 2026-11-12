@@ -1,13 +1,63 @@
+<div align="center">
 
+# Hey, I'm Tanish 👋
 
-Working at Atlan has raised my expectations of what I can build. I’m learning to raise my standards along with them.
+**Platform engineer at [Atlan](https://atlan.com)**
+I build the paved roads other engineers drive on.
 
-With AI, I can try an approach I would previously have spent days debating. That makes me more willing to attempt things, and less attached to my first answer.
+</div>
 
-I still want to understand why the system is shaped the way it is. Where the complexity belongs. Whether an abstraction earns its place. What happens when something fails. Getting the code written sooner gives me more room for those questions.
+---
 
-I want to build things people feel comfortable depending on—and enjoy using. The kind where someone has clearly thought through the annoying little details.
+```yaml
+apiVersion: human/v1
+kind: Engineer
+metadata:
+  name: helpingwizard12
+  labels:
+    role: sde-1
+    team: platform
+    company: atlan
+spec:
+  focus:
+    - infrastructure
+    - internal-developer-platform
+    - kubernetes
+  learning:
+    - distributed-systems      # one paper at a time
+    - platform-security        # IAM, supply chain, k8s hardening
+    - kubernetes-internals     # by writing my own operator
+    - ai-infrastructure        # sandboxes and guardrails for agents
+  values:
+    - boring-is-a-feature
+    - understand-the-why
+    - sweat-the-small-details
+  restartPolicy: Always        # sleep is optional, curiosity is not
+status:
+  phase: Building
+  conditions:
+    - type: Learning
+      status: "True"
+```
 
-There’s a lot I haven’t learned yet. I’m excited that I can attempt more while learning it.
+### ⚙️ What I care about
 
-*Sleep Deprived Dreamer.*
+- **Platforms people trust.** The best infrastructure is the kind nobody has to think about.
+- **Knowing why, not just how.** Where complexity lives, which abstractions earn their place, how things fail.
+- **Moving fast with AI, thinking slow about design.** The code gets written quicker now, so there's more time for the hard questions.
+
+### 🧰 Toolbox
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+<sub>Probably debugging something at 2 AM. 🌙</sub>
+</div>
